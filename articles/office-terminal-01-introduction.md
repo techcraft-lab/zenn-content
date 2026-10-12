@@ -3,7 +3,7 @@ title: "UbuntuとPythonでオフィスの点検・在席管理システムを自
 emoji: "🏢"
 type: "tech"
 topics: ["python", "ubuntu", "fastapi", "sqlite", "個人開発"]
-published: false
+published: true
 ---
 
 ## はじめに
