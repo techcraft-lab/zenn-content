@@ -6,6 +6,12 @@ topics: ["python", "ubuntu", "fastapi", "sqlite", "個人開発"]
 published: true
 ---
 
+## このシリーズの記事
+
+- [第1回：UbuntuとPythonでオフィスの点検・在席管理システムを自作した](https://zenn.dev/techcraft-lab/articles/office-terminal-01-introduction) **（この記事）**
+- [第2回：余っていたPCとRaspberry Piで作るオフィス管理システム](https://zenn.dev/techcraft-lab/articles/office-terminal-02-system-architecture)
+- [第3回：オフィス管理システムの中身を見てみる。FastAPIとSQLiteの設計](https://zenn.dev/techcraft-lab/articles/office-terminal-03-web-application)
+
 ## はじめに
 
 事務所の退室点検と社員の在席状況を管理するWebアプリケーション「**office_terminal**」を作りました。
@@ -150,3 +156,7 @@ GitHubで公開しています。
 今回の目的は、すべての機能を作り切ることではありません。**動く土台を作り、そこから自分で考えて改良できるようにすること**です。
 
 次回以降は、Ubuntu Serverでの開発環境構築やFastAPI・SQLiteの実装について紹介していきたいと思います。
+
+## 前後の記事
+
+- 次の記事：[第2回：余っていたPCとRaspberry Piで作るオフィス管理システム](https://zenn.dev/techcraft-lab/articles/office-terminal-02-system-architecture)

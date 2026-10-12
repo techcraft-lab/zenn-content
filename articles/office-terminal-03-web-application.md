@@ -3,8 +3,14 @@ title: "オフィス管理システムの中身を見てみる。FastAPIとSQLit
 emoji: "🧩"
 type: "tech"
 topics: ["python", "fastapi", "sqlite", "javascript", "個人開発"]
-published: false
+published: true
 ---
+
+## このシリーズの記事
+
+- [第1回：UbuntuとPythonでオフィスの点検・在席管理システムを自作した](https://zenn.dev/techcraft-lab/articles/office-terminal-01-introduction)
+- [第2回：余っていたPCとRaspberry Piで作るオフィス管理システム](https://zenn.dev/techcraft-lab/articles/office-terminal-02-system-architecture)
+- [第3回：オフィス管理システムの中身を見てみる。FastAPIとSQLiteの設計](https://zenn.dev/techcraft-lab/articles/office-terminal-03-web-application) **（この記事）**
 
 ## はじめに
 
@@ -295,3 +301,7 @@ WebSocketのような常時接続方式ではなく定期的なHTTP通信です�
 [techcraft-lab/office_terminal](https://github.com/techcraft-lab/office_terminal)
 
 現状はログインや本人認証、厳密な権限管理を実装していません。社内LANでの限定利用を想定したもので、**インターネットへ直接公開する用途には適していません**。
+
+## 前後の記事
+
+- 前の記事：[第2回：余っていたPCとRaspberry Piで作るオフィス管理システム](https://zenn.dev/techcraft-lab/articles/office-terminal-02-system-architecture)

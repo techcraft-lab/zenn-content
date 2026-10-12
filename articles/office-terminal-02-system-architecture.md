@@ -3,8 +3,14 @@ title: "余っていたPCとRaspberry Piで作るオフィス管理システム�
 emoji: "🖥️"
 type: "tech"
 topics: ["raspberrypi", "ubuntu", "python", "fastapi", "個人開発"]
-published: false
+published: true
 ---
+
+## このシリーズの記事
+
+- [第1回：UbuntuとPythonでオフィスの点検・在席管理システムを自作した](https://zenn.dev/techcraft-lab/articles/office-terminal-01-introduction)
+- [第2回：余っていたPCとRaspberry Piで作るオフィス管理システム](https://zenn.dev/techcraft-lab/articles/office-terminal-02-system-architecture) **（この記事）**
+- [第3回：オフィス管理システムの中身を見てみる。FastAPIとSQLiteの設計](https://zenn.dev/techcraft-lab/articles/office-terminal-03-web-application)
 
 ## はじめに
 
@@ -271,3 +277,8 @@ Webアプリの基本機能や自動起動の動作も確認できました。
 ---
 
 次回以降は、今回紹介した開発環境の構築方法や、AIを活用した開発の進め方についても紹介していきたいと思います。
+
+## 前後の記事
+
+- 前の記事：[第1回：UbuntuとPythonでオフィスの点検・在席管理システムを自作した](https://zenn.dev/techcraft-lab/articles/office-terminal-01-introduction)
+- 次の記事：[第3回：オフィス管理システムの中身を見てみる。FastAPIとSQLiteの設計](https://zenn.dev/techcraft-lab/articles/office-terminal-03-web-application)
